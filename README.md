@@ -1,7 +1,7 @@
-# Mira Shop - Vue.js eCommerce Website
+# Mira Shop - Vue.js ECommerce Website
 
 
-Mira Shop is an eCommerce website built with Vue.js
+Mira Shop is an ECommerce website built with Vue.js
 
 # Table of Contents
 
