@@ -3,7 +3,7 @@
 
 Mira Shop is an eCommerce website built with Vue.js
 
-## Table of Contents
+# Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,7 +11,7 @@ Mira Shop is an eCommerce website built with Vue.js
 - [Technologies Used](#technologies-used)
 
 
-## Installation
+# Installation
 
 To get started with Mira Shop, follow these steps:
 
@@ -28,41 +28,41 @@ To get started with Mira Shop, follow these steps:
     ```bash
     npm install
 
-## usage
+# usage
 
 Once you have installed all the dependencies, you can start the development server by running:
     ```bash
     npm run dev
 This will start the development server, and you can access the website at http://localhost:3000.
 
-## features
+# features
 
-# Responsive Design:
+### Responsive Design:
 Mira Shop is designed to work seamlessly across various devices and screen sizes.
 
-# Product Listings:
+### Product Listings:
 Browse through a wide range of products categorized for easy navigation.
 
-# Shopping Cart:
+### Shopping Cart:
 Add products to the cart and proceed to checkout for a smooth shopping experience.
 
-## Technologies Used
+# Technologies Used
 
-# Vue.js: 
+### Vue.js: 
 Frontend JavaScript framework for building user interfaces.
-# Vuetify: 
+### Vuetify: 
 Material Design component framework for Vue.js.
-# Vue Router: 
+### Vue Router: 
 Official router for Vue.js applications.
-# Pinia: 
+### Pinia: 
 Intuitive and type-safe store for Vue.js.
-# Axios: 
+### Axios: 
 Promise-based HTTP client for making AJAX requests.
-# Swiper: 
+### Swiper: 
 Modern touch slider and swiper for Vue.js.
-# @mdi/font: 
+### @mdi/font: 
 Material Design Icons font.
-# ESLint & Prettier: 
+### ESLint & Prettier: 
 Code linting and formatting tools for maintaining code quality.
-# Vite: 
+### Vite: 
 Fast, modern build tool for frontend development.
